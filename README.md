@@ -18,8 +18,8 @@ This is a simple Login Form created using Java Swing in NetBeans.
    - Password: 1234
 
 ## Developed By:
-Greeshma B N  
-Krist Jayanti College  
+B N Greeshma 
+Kristu Jayanti College  
 BCA - Cloud Computing
 
 # ScreenShots of this task
