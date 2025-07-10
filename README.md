@@ -1,1 +1,26 @@
 # LoginApp-using-NetBean
+
+
+This is a simple Login Form created using Java Swing in NetBeans.
+
+## Features:
+- Username and Password fields
+- Login validation using hardcoded values
+- Tooltips for user guidance
+- User-friendly GUI design
+
+## How to Run:
+1. Open NetBeans IDE
+2. Open the project
+3. Run the file `LoginForm1.java` (Shift + F6)
+4. Use:
+   - Username: admin
+   - Password: 1234
+
+## Developed By:
+Greeshma B N  
+Krist Jayanti College  
+BCA - Cloud Computing
+
+
+
