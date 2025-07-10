@@ -26,3 +26,4 @@ BCA - Cloud Computing
 
 
 <img width="455" height="437" alt="Screenshot 2025-07-10 165508" src="https://github.com/user-attachments/assets/744b632e-5bd3-4266-8ebb-6d6d1aececf9" />
+<img width="392" height="312" alt="Screenshot 2025-07-10 165531" src="https://github.com/user-attachments/assets/b7ed94bf-3995-4a95-ba3e-41d718f9cb6f" />
